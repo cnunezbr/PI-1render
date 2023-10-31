@@ -1,4 +1,4 @@
-c# Imagen
+# Imagen
 FROM python:3.10-slim
 
 # directorio de trabajo de la app
